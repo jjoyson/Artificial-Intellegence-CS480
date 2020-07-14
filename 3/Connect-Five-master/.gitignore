@@ -1,0 +1,6 @@
+__pycache__/
+
+#vim swap-file:
+*.sw?
+
+*.pyc
